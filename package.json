@@ -28,7 +28,7 @@
     "@babel/preset-env": "^7.20.2",
     "eslint": "^8.36.0",
     "eslint-plugin-node": "^11.1.0",
-    "nodemon": "^2.0.21"
+    "nodemon": "^2.0.22"
   },
   "engines": {
     "node": ">=8.0.0"
