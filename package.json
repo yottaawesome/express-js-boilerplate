@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/yottaawesome/express-js-boilerplate#readme",
   "devDependencies": {
-    "@babel/core": "^7.21.4",
+    "@babel/core": "^7.21.5",
     "@babel/node": "^7.20.7",
-    "@babel/preset-env": "^7.21.4",
+    "@babel/preset-env": "^7.21.5",
     "eslint": "^8.39.0",
     "eslint-plugin-node": "^11.1.0",
     "nodemon": "^2.0.22"
