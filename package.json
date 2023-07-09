@@ -23,12 +23,12 @@
   },
   "homepage": "https://github.com/yottaawesome/express-js-boilerplate#readme",
   "devDependencies": {
-    "@babel/core": "^7.22.5",
-    "@babel/node": "^7.22.5",
-    "@babel/preset-env": "^7.22.5",
+    "@babel/core": "^7.22.8",
+    "@babel/node": "^7.22.6",
+    "@babel/preset-env": "^7.22.7",
     "eslint": "^8.44.0",
     "eslint-plugin-node": "^11.1.0",
-    "nodemon": "^2.0.22"
+    "nodemon": "^3.0.0"
   },
   "engines": {
     "node": ">=8.0.0"
